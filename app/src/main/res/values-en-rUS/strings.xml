@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name">Practice01</string>
+    <string name = "titulo"> Calculating Body Mass </string>
+    <string name = "textouno"> Weight (kg): </string>
+    <string name = "textodos"> Height (mts): </string>
+    <string name = "textotres"> Calculate </string>
+    <string name = "textocuatro"> Result: </string>
+    <string name = "textocinco"> Your Body Mass is: </string>
+    <string name = "textoseis"> Recommendations </string>
+    <string name = "textocaso1"> Underweight </string>
+    <string name = "textocaso11">Add healthy calories. You don\'t need to drastically change your diet. Opt for foods rich in nutrients.
+        Instead of eating empty calories and junk food, eat foods that are rich in nutrients.</string>
+    <string name = "textocaso2"> Normal Weight </string>
+    <string name = "textocaso22">Regular physical activity burns calories and builds muscle tissue. Reduce time before
+        the screen. People who spend a lot of time in front of screens are more likely to be overweight. Be careful
+        with distorted portions, eat 5 servings of fruits and vegetables per day. Don\'t skip breakfast.</string>
+    <string name = "textocaso3"> About Weight </string>
+    <string name = "textocaso33"> Limit the consumption of foods that are rich in sugars and fats, Eat fruits and vegetables several times a day,
+        as well as legumes, whole grains and nuts. Do frequent physical activity, Quit smoking</string>
+</resources>

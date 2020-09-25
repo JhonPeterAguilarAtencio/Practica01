@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Practica01</string>
+    <string name="titulo">Calculando la Masa Coporal</string>
+    <string name="textouno">Peso(kg):</string>
+    <string name="textodos">Altura(mts):</string>
+    <string name="textotres">Calcular</string>
+    <string name="textocuatro">Resultado:</string>
+    <string name="textocinco">Su Masa Corporal es:</string>
+    <string name="textoseis">Recomendaciones</string>
+    <string name="textocaso1">Bajo de Peso</string>
+    <string name="textocaso11">Agregue calorías saludables. No necesita cambiar drásticamente su dieta. Opte por alimentos ricos en nutrientes.
+        En lugar de comer calorías vacías y comida chatarra, consuma alimentos que sean ricos en nutrientes.</string>
+    <string name="textocaso2">Peso Normal</string>
+    <string name="textocaso22">La actividad física regular quema calorías y genera tejido muscular. Reduce el tiempo ante
+        la pantalla. Las personas que pasan mucho tiempo frente a pantallas tienen más probabilidades de tener sobrepeso. Ten cuidado
+        con las porciones distorsionadas, Come 5 porciones de frutas y verduras por día. No te saltees el desayuno.</string>
+    <string name="textocaso3">Sobre Peso</string>
+    <string name="textocaso33">Limitar el consumo de alimentos que sean ricos en azúcares y grasas, Comer varias veces al día fruta y verdura,
+        así como legumbres, cereales integrales y frutos secos. Realizar actividad física frecuente, Deja de fumar"</string>
+</resources>
